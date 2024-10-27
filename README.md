@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in an Hospitality sector company<br>👯 I’m looking to collaborate on projects related to the financial sector<br>🌱 I’m currently learning about backend and fronted development<br>⚡ Fun fact: I learned to code on an 8 bit computer
+🔭 I’m currently working in an Hospitality sector company<br>
 
 
 ## 🌐 Socials:
